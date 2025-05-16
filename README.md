@@ -95,7 +95,7 @@ project-root/
 
 | Orders | Products |
 |--------|----------|
-| ![Orders](Output/orders.PNG) | ![Products](Output/products.png) |
+| ![Orders](Output/orders.png) | ![Products](Output/products.png) |
 
 
 ## الصيانة والتطوير
