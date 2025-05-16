@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Empty Chart</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(10, 5)">
+            <rect stroke="#E1E7EF" stroke-width="2" x="0" y="0" width="180" height="120" rx="4"></rect>
+            <line x1="0" y1="100" x2="180" y2="100" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="0" y1="75" x2="180" y2="75" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="0" y1="50" x2="180" y2="50" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="0" y1="25" x2="180" y2="25" stroke="#E1E7EF" stroke-width="1"></line>
+            
+            <line x1="30" y1="0" x2="30" y2="120" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="60" y1="0" x2="60" y2="120" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="90" y1="0" x2="90" y2="120" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="120" y1="0" x2="120" y2="120" stroke="#E1E7EF" stroke-width="1"></line>
+            <line x1="150" y1="0" x2="150" y2="120" stroke="#E1E7EF" stroke-width="1"></line>
+            
+            <text x="90" y="70" font-family="Arial" font-size="14" fill="#A0AEC0" text-anchor="middle">لا توجد بيانات</text>
+            <circle cx="90" cy="140" r="5" fill="#E1E7EF"></circle>
+            <circle cx="90" cy="140" r="3" fill="#FFFFFF"></circle>
+        </g>
+    </g>
+</svg>

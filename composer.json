@@ -1,0 +1,22 @@
+{
+    "name": "arabic-pos/store-system",
+    "description": "Arabic Point of Sale System with inventory management and installment features",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "picqer/php-barcode-generator": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arabic POS Team",
+            "email": "info@arabicpos.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "app/db.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}

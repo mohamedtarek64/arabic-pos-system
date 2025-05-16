@@ -1,0 +1,11 @@
+ئAll rights reserved.
+
+This source code is published for educational and portfolio demonstration purposes only.  
+You are **not** permitted to:
+- Use this code in any personal or commercial projects  
+- Modify or redistribute this code  
+- Claim this code as your own
+
+Any usage beyond viewing for educational/reference purposes requires **explicit written permission** from the author.
+
+For inquiries, contact: mohamed202202632@gmail.com

@@ -1,0 +1,68 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+log/
+logs/
+error_log
+error_log.txt
+dashboard_errors.log
+transaction_log.txt
+transaction_error_log.txt
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*_backup.php
+*_backup_full.php
+*.old
+temp*.php
+*.cache
+
+# Test output and HTML reports
+*-output.html
+*-results.html
+fix-summary.html
+test-output.html
+test-results.html
+fix-results.html
+
+# Backup files
+*_backup.*
+*_old.*
+*_bak.*
+*-BAK.*
+cashier-fixed.php
+*-fix.*
+*-fix-*.*
+*-fixes.*
+*-emergency-fix.*
+*-emergency.*
+*-solution.*
+*-update.*
+
+# Environment files
+.env
+config.local.php
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+nbproject/
+
+# PHP development files
+vendor/
+composer.lock
+
+# Local development backup files
+cleanup.ps1 
