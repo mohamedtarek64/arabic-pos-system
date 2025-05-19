@@ -95,7 +95,7 @@ project-root/
 
 | Orders | Products |
 |--------|----------|
-| ![Orders](Output/orders.png) | ![Products](Output/products.png) |
+| ![Orders](Output/orders.png) | ![Products](Output/products.png) | ![Installments](Output/installments_Table.png) | ![Installments](Output/installments_late.png) |
 
 
 ## الصيانة والتطوير
@@ -115,4 +115,3 @@ project-root/
 هذا المشروع مرخص بموجب [ترخيص MIT](LICENSE). 
 
 
->
